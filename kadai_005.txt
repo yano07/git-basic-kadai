@@ -1,8 +1,0 @@
-git init
-git status
-git add hello_world.txt
-git commit -m "Add Hello, world"
-
-git log
-
-mkdir kadai_005
