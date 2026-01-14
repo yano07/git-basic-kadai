@@ -6,7 +6,7 @@ echo Hello, world! > hello_world.txt
 git add hello_world.txt
 git commit -m "Add Hello, world!"
 
-echo ‚±‚ñ‚É‚¿‚ÍA¢ŠEI >> hello_world.txt
+echo ã“ã‚“ã«ã¡ã¯ã€ä¸–ç•Œï¼ >> hello_world.txt
 git add hello_world.txt
 git commit -m "Add Japanese greeting"
 
