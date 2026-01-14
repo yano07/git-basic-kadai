@@ -1,1 +1,14 @@
-‰Û‘è005 
+mkdir git_challenge
+cd git_challenge
+git init
+
+echo Hello, world! > hello_world.txt
+git add hello_world.txt
+git commit -m "Add Hello, world!"
+
+echo ‚±‚ñ‚É‚¿‚ÍA¢ŠEI >> hello_world.txt
+git add hello_world.txt
+git commit -m "Add Japanese greeting"
+
+git log --oneline
+
